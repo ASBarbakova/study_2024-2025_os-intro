@@ -38,9 +38,6 @@ header-includes:
   * https://github.com/ASBarbakova/study_2024-2025_os-intro
 
 :::
-::: {.column width="30%"}
-
-![](./image/kulyabov.jpg)
 
 :::
 ::::::::::::::
@@ -104,7 +101,7 @@ header-includes:
 
 Копирую отпечаток приватного ключа, перехожу на гитхаб и прикрепляю ключ в нужных настройках.
 
-![GPG ключ](image/5.jpg){#fig:005 width=70%}
+![GPG ключ](image/5.jpg){#fig:005 width=60%}
 
 ## 
 
